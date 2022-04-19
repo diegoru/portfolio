@@ -115,6 +115,7 @@ section#inicio div#arraste{
 section#inicio div#arraste a{
     text-decoration: none;
     color:#fff;
+    z-index: 10;
 }
 
 i.menu-mobile{
