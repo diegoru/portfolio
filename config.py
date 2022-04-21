@@ -1,2 +1,2 @@
-email = "contato.diegoruescas@gmail.com"
-senha = "DiEgO010203"
+email = "seu email"
+senha = "senha"
